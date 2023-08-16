@@ -1,2 +1,5 @@
 # test_rebase
-rebase挙動確認用リポジトリ
+
+rebase 挙動確認用リポジトリ
+
+test ブランチからの更新
